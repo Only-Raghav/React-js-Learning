@@ -1,0 +1,31 @@
+{
+  "personsData": [
+    {
+      "id": "06d3",
+      "name": "rahul raghav",
+      "number": "08273961338",
+      "city": "shikarpur"
+    },
+    {
+      "id": "12e4",
+      "name": "rahul raghav",
+      "number": "08273961338",
+      "city": "shikarpur"
+    },
+    {
+      "id": "f49b",
+      "name": "rahul raghav",
+      "number": "08273961338",
+      "city": "shikarpur"
+    }
+  ],
+
+  "users":[
+    {
+      "id": "06d3",
+      "name": "rahul ",
+      "password": "08273"
+    }
+
+  ]
+}

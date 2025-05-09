@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.main{
+    width: 100%;
+    background-color: black;
+    display: flex;
+}
+
+.box1{
+    width: 34%;
+    min-height: 70vh;
+    background-color: antiquewhite;
+
+
+}
+
+.box1 div {
+    padding: 5% 10%;
+    margin: 5px;
+}
+
+.box1 div input{
+    margin: 5px;
+    padding: 5px;
+    
+
+}
+
+
+
+.box2{
+    width: 65%;
+    min-height: 70vh;
+    background-color: rgb(221, 171, 171);
+}
+

@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+.card{
+    width: 24.25%;
+    min-height: 30vh;
+    border: 1px solid gray;
+    margin-bottom: 1vh;
+}
+
+h1{
+    text-align: center;
+    margin: 1vh;
+}
+h2{
+    padding: 2%;
+    margin-bottom: 2vh;
+}
+
+p{
+    padding: 2%;
+}
+
+#bg1{
+    background-color: aqua;
+}
+#bg2{
+    background-color: blue;
+}
+#bg3{
+    background-color: brown;
+}

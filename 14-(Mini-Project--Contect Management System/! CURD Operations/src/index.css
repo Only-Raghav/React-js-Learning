@@ -1,0 +1,92 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+.header{
+  padding: 2% 5%;
+  background-color: antiquewhite;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.header li{
+  list-style: none;
+
+}
+
+.header li a{
+  text-decoration: none;
+}
+
+.active{
+ color: blue;
+}
+
+.renderpage{
+  width: 80%;
+  margin: auto;
+  padding: 2% 5%;
+  min-height: 50vh;
+  border: 1px solid grey;
+}
+
+.insert{
+  padding: 1%;
+  display: grid;
+  gap: 5vh;
+
+}
+
+input[type='text']{
+  padding: 1%;
+  /* width: 60%; */
+  /* margin: auto; */
+}
+
+button{
+  padding: 1%;
+  background-color: aquamarine;
+  border: none;
+  /* width: 50%; */
+  /* margin: auto; */
+}
+
+.card{
+  width: 30%;
+  min-height: 30vh;
+  text-align: center;
+  border: 1px solid grey;
+  margin: auto;
+  padding: 2% 1%;
+}
+
+.card h2{
+  margin-bottom: 1vh;
+  padding: 1%;
+}
+
+.editForm{
+  padding: 1%;
+  display: grid;
+
+}
+
+input[type='text']{
+
+  padding: 1%;
+  margin-bottom: 1vh;
+  
+}
+
+
+.updated-data{
+  border: 1px solid gray;
+  padding: 1%;
+  text-align: center;
+}
+.updated-data h2{
+  padding: 0.5%;
+  margin-bottom: 1vh;
+}

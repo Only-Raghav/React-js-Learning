@@ -1,0 +1,33 @@
+.nav{
+    padding: 5px;
+    height: 70vh;
+    width: 30%;
+    background-color:whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    gap: 1vh;
+}
+
+.nav div {
+    /* border: 1px solid black; */
+    height: 20vh;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.nav a{
+    text-decoration: none;
+    color: rgb(179, 142, 213);
+    font-size: 1rem;
+    cursor: pointer;
+
+}
+
+.nav a:hover{
+    color: brown;/
+} 

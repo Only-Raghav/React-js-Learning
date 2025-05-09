@@ -1,0 +1,13 @@
+.section{
+    padding: 2%;
+    height: 70vh;
+    width: 69%;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    gap: 1vh;
+    border: 1px solid black;
+
+}

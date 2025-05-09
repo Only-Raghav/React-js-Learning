@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.title{
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.head{
+    padding: 2% 5%;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.head ul{
+    display: flex;
+    gap:20px;
+    align-items: center;
+    
+   
+}
+
+.head ul li{
+    list-style: none;
+    color: brown;
+   
+}
+
+
+.head ul li a{
+    text-decoration: none;
+    
+}

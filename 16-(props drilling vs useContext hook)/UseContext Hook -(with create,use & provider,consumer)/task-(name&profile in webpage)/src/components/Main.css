@@ -1,0 +1,9 @@
+.main{
+    width: 100%;
+    background-color: whitesmoke;
+    max-height:  90vh;
+    display: flex;
+    justify-content: space-between;
+
+
+}

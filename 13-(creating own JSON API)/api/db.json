@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "user1@ducat.com",
+      "pass": "123456",
+      "theme": "bg1"
+    },
+    {
+      "id": "2",
+      "name": "user2",
+      "email": "user2@ducat.com",
+      "pass": "122134",
+      "theme": "bg2"
+    },
+    {
+      "id": "3",
+      "name": "user3",
+      "email": "user3@ducat.com",
+      "pass": "1234",
+      "theme": "bg3"
+    }
+  ]
+}

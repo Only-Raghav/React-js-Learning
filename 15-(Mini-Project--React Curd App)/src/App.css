@@ -1,0 +1,9 @@
+.division{
+    height: 80vh;
+    padding: 1%;
+    background-color: whitesmoke;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}

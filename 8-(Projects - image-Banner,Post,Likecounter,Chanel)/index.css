@@ -1,0 +1,15 @@
+.post{
+    padding: 2%;
+    background-color: whitesmoke;
+    margin-bottom: 1vh;
+}
+
+.buttons{
+    padding: 2%;
+    background-color: lightcoral;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    gap: 10px;
+}
+

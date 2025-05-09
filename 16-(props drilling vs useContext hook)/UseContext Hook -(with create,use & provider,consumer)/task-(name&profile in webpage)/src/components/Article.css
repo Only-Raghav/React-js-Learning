@@ -1,0 +1,13 @@
+.article{
+    width: 70%;
+    height: 40vh;
+    padding: 1%;
+    background-color: rgb(168, 127, 207);
+    font-size: 16px;
+    
+    color: whitesmoke;
+    margin-top: 1vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

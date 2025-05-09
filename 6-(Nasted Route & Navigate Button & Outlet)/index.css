@@ -1,0 +1,60 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+marquee{
+  padding: 1%;
+  color: green;
+}
+
+.Admin{
+  display: flex;
+}
+
+.title{
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.head{
+  width: 24.75%;
+  height: 70vh;
+  padding: 2%;
+  background-color: lightblue;
+  display: grid;
+  justify-content: center;
+  align-items: start;
+  
+  
+}
+
+.head ul{
+  display: grid;
+  gap:20px;
+  
+ 
+}
+
+.head ul li{
+  list-style: none;
+ 
+}
+
+
+.head ul li a{
+  text-decoration: none;
+  
+}
+
+.active{
+  color: red;
+}
+
+
+.text{
+  width: 74.25%;
+  height: 70vh;
+  padding: 2%;
+  background-color: lavenderblush;
+}

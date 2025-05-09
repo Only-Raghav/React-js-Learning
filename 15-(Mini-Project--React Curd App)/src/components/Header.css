@@ -1,0 +1,18 @@
+.head{
+    padding: 2% 5%;
+    background-color: rgb(209, 193, 187);
+    color: #4865be;
+}
+
+.head h1{
+    font-size: 2rem;
+    font-weight: bolder;
+    word-spacing: 2px;
+    text-transform: capitalize;
+}
+
+.head p{
+    font-size: 12px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+}

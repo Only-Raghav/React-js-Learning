@@ -1,0 +1,11 @@
+.section{
+    width: 48%;
+    height: 80vh;
+    padding: 1%;
+    background-color: rgb(144, 155, 166);
+    color: whitesmoke;
+    margin-top: 1vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.text{
+    background-color: pink;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
